@@ -3,7 +3,7 @@
 ##         
 ### 🕹️ 1-D control 🕹️        
 ### 🕹️ 2-D control 🕹️      
-### 🌌 Trajectory generate to pass quadrotor from the way-points 🌌               
+### 🌌 Trajectory generation to pass quadrotor from the way-points 🌌               
 ### 🛬 Analyse how thrust to weight ration and initial speed affects on quadrotor 🛬                    
 
 
