@@ -30,3 +30,9 @@
 <!--img height="40" width="40" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/thrust.gif"-->
 <img align="midle" height="400" width="700" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/thrust.gif">           
 
+
+##         
+
+## 📕 Reference Course         
+[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)         
+
