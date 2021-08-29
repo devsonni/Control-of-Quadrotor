@@ -22,8 +22,8 @@
 ### 🌌 Trajectory generation to pass quadrotor from the way-points 🌌         
 🎯 Quadrotor passes from these waypoints [0, 0, 0; 1, 1, 1; 2, 0, 2; 3, -1, 1; 4, 0, 0]          
 <!--img height="40" width="40" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/3d.gif"-->
-<img align="midle" height="400" width="700" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/3d.gif">             
-
+<img align="midle" height="400" width="700" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/3d.gif">           
+##        
 
 ### 🛬 Analyse how thrust to weight ration and initial speed affects on quadrotor 🛬            
 🎯 Getting maximum rise time under some defined overshoot.       
