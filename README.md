@@ -26,7 +26,7 @@
 
 ##        
 
-### 🛬 Analyse how thrust to weight ration and initial speed affects on quadrotor 🛬            
+## 🛬 Analyse how thrust to weight ration and initial speed affects on quadrotor 🛬            
 🎯 Getting maximum rise time under some defined overshoot.       
 <!--img height="40" width="40" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/thrust.gif"-->
 <img align="midle" height="400" width="700" src="https://github.com/devsonni/Control-of-Quadrotor/blob/main/gif/thrust.gif">           
